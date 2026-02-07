@@ -1,4 +1,4 @@
-import type { Restaurant } from '../types';
+import type { Restaurant } from '../../types';
 
 export const RESTAURANTS: Restaurant[] = [
   { id: '1', name: 'The Golden Fork', cuisine: 'Contemporary American', rating: 4.8, address: '123 Main St', photoUrls: [] },
